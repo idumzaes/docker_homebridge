@@ -1,6 +1,6 @@
 # idumzaes/homebridge
 
-Homebridge Docker image for aarch64 devices. Includes Homebridge-EcoPlug and Homebridge-Nest plugins.
+Homebridge Docker image for aarch64 devices. Includes Homebridge-EcoPlug, Homebridge-Wink3 Homebridge-Platform-Wemo plugins.
 
 ## Volume Persistance
 Persistence is recommended to save data directory outside the container, as to not loose data.
