@@ -10,4 +10,4 @@ Follow these steps to run this container.
 
 Run Container with the following command:
 
-`docker run -dit --restart unless-stopped --network host --name homebridge -v ~/homebridge_data:/homebridge idumzaes/homebridge`
+`docker run -dit --restart unless-stopped --network host --name homebridge -v ~/homebridge_data:/homebridge HOMEBRIDGE_CONFIG_UI=1 idumzaes/homebridge`
