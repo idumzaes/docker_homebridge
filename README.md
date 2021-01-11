@@ -1,6 +1,6 @@
 # idumzaes/homebridge
 
-Homebridge Docker image for aarch64 devices. Includes Homebridge-Ring plugin.
+Homebridge Docker image for aarch64 devices. Includes homebridge-config-ui-x plugin.
 
 ## Volume Persistance
 Persistence is recommended to save data directory outside the container, as to not loose data.
